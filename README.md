@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/isaías-bueno-80a0ba157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/isaías-bueno-80a0ba157" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-isaias-bueno/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-isaias-bueno/" height="30" width="40" /></a>
 <a href="https://instagram.com/isaias_bueno11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaias_bueno11" height="30" width="40" /></a>
 </p>
 
@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiasmbueno&show_icons=true&locale=en&layout=compact" alt="isaiasmbueno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiasmbueno&show_icons=true&locale=en" alt="isaiasmbueno" /></p>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
