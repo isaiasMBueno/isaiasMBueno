@@ -23,4 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiasmbueno&show_icons=true&locale=en&layout=compact" alt="isaiasmbueno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiasmbueno&show_icons=true&locale=en" alt="isaiasmbueno" /></p>
+<hr>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
